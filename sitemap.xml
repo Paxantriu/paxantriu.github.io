@@ -6,6 +6,9 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
+      <image:loc>http://lionfish.com/images/vodorosli_4.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://lionfish.com/images/fish.png</image:loc>
     </image:image>
     <image:image>
@@ -70,9 +73,6 @@
     </image:image>
     <image:image>
       <image:loc>http://lionfish.com/images/vodorosli_3.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://lionfish.com/images/vodorosli_4.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://lionfish.com/images/vodorosli_5.png</image:loc>

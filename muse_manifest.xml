@@ -1,22 +1,22 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lionfish.com" resolutions="1x" timestamp="1588439365432">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lionfish.com" resolutions="1x" timestamp="1588498610748">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_______-a.css" crc="352003052" ref="index"/>
-    <file name="index.css" crc="4185155250" ref="index"/>
+    <file name="index.css" crc="316052865" ref="index"/>
   </folder>
   <folder name="fonts">
-    <file name="phenomena-black.woff" crc="4291071312"/>
-    <file name="phenomena-black.eot" crc="342235419"/>
-    <file name="phenomena-black.svg" crc="250115461"/>
     <file name="phenomena-extrabold.woff" crc="3931526801"/>
     <file name="phenomena-extrabold.eot" crc="3888085869"/>
     <file name="phenomena-extrabold.svg" crc="58545944"/>
-    <file name="phenomena-bold.woff" crc="466045278"/>
-    <file name="phenomena-bold.eot" crc="469216704"/>
-    <file name="phenomena-bold.svg" crc="237663464"/>
     <file name="phenomena-regular.woff" crc="522114653"/>
     <file name="phenomena-regular.eot" crc="4255525484"/>
     <file name="phenomena-regular.svg" crc="4008536293"/>
+    <file name="phenomena-black.woff" crc="4291071312"/>
+    <file name="phenomena-black.eot" crc="342235419"/>
+    <file name="phenomena-black.svg" crc="250115461"/>
+    <file name="phenomena-bold.woff" crc="466045278"/>
+    <file name="phenomena-bold.eot" crc="469216704"/>
+    <file name="phenomena-bold.svg" crc="237663464"/>
   </folder>
   <folder name="assets">
     <file name="d00d3ca1e40adb7dd5af2fbae45dd1f7.gif" crc="323782875" seo="true" mt="1588256624000"/>
@@ -37,6 +37,9 @@
   </folder>
   <folder name="images">
     <file name="lionfish--крылатка-зебра-favicon.ico" crc="4019265701" ref="index"/>
+    <file name="vodorosli_4.png" crc="236004630" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="home_page.png" crc="4050797949" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -127,9 +130,6 @@
     <file name="vodorosli_3.png" crc="4120301782" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="vodorosli_4.png" crc="236004630" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="vodorosli_5.png" crc="342904711" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -194,5 +194,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="490066156" seo="true" mt="1588439347682" redirect="true"/>
+  <file name="index.html" crc="3819026127" seo="true" mt="1588440970302" redirect="true"/>
 </manifest>
