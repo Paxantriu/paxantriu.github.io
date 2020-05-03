@@ -1,0 +1,198 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lionfish.com" resolutions="1x" timestamp="1588439365432">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_______-a.css" crc="352003052" ref="index"/>
+    <file name="index.css" crc="4185155250" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="phenomena-black.woff" crc="4291071312"/>
+    <file name="phenomena-black.eot" crc="342235419"/>
+    <file name="phenomena-black.svg" crc="250115461"/>
+    <file name="phenomena-extrabold.woff" crc="3931526801"/>
+    <file name="phenomena-extrabold.eot" crc="3888085869"/>
+    <file name="phenomena-extrabold.svg" crc="58545944"/>
+    <file name="phenomena-bold.woff" crc="466045278"/>
+    <file name="phenomena-bold.eot" crc="469216704"/>
+    <file name="phenomena-bold.svg" crc="237663464"/>
+    <file name="phenomena-regular.woff" crc="522114653"/>
+    <file name="phenomena-regular.eot" crc="4255525484"/>
+    <file name="phenomena-regular.svg" crc="4008536293"/>
+  </folder>
+  <folder name="assets">
+    <file name="d00d3ca1e40adb7dd5af2fbae45dd1f7.gif" crc="323782875" seo="true" mt="1588256624000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3939489907" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="3936894949" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
+    <file name="webpro.js" crc="3856315280" ref="index"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="index"/>
+    <file name="require.js" crc="4177726516" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="lionfish--крылатка-зебра-favicon.ico" crc="4019265701" ref="index"/>
+    <file name="home_page.png" crc="4050797949" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fish.png" crc="3948935259" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wave_1.png" crc="142013742" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vodorosli_1.png" crc="3797257265" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wave_6.png" crc="3847455654" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="info_ring_37.png" crc="4088455516" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="info_ring_25.png" crc="299681872" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="info_ring_62.png" crc="416261550" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="info_ring_100.png" crc="3953538809" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="map.png" crc="3762087120" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="circle_info.png" crc="4030867434" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="waeve_2.png" crc="97479018" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fish_front.png" crc="3794639565" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wave_3.png" crc="206680881" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="igla_info.png" crc="3809059964" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wave_4.png" crc="25237815" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="krevetka_1.png" crc="358946254" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fishes.png" crc="153857770" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="krevetka_2.png" crc="457377741" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wave_big.png" crc="141276846" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sqare_black_opacity.png" crc="4258829659" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="vodorosli_2.png" crc="3785671396" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vodorosli_3.png" crc="4120301782" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vodorosli_4.png" crc="236004630" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vodorosli_5.png" crc="342904711" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vodorosli_6.png" crc="369593549" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bubble_big.png" crc="488650336" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bubble_1.png" crc="493123854" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bubble_5.png" crc="109851707" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bubble_4.png" crc="4046834095" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bubble_2.png" crc="256495484" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="line_podval.png" crc="280376467" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="490066156" seo="true" mt="1588439347682" redirect="true"/>
+</manifest>
